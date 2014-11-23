@@ -1,4 +1,4 @@
-Cilitags Test Data
+Chilitags Test Data
 ===================
 
 Data for the automated test of [Chilitags](https://github.com/chili-epfl/chilitags).
